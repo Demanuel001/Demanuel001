@@ -1,10 +1,10 @@
 ##
 
 ### Olá, eu sou o Danilo! 👋🐉
-
-- 🔭 Trabalhando com xHarbour ...
-- 🌱 Estudando JavaScript, React, React Native ...
-
+#### Sou estudante de Sistemas de Informação pela faculdade Estácio de SA.
+##### sinta-se a vontade para acompanhar minha evolução.
+- 🔭 Trabalhando com xHarbour, PostgreSQL ...
+- 🌱 Estudando JavaScript, ReactJS, NodeJS ...
 ##
 
 <div>
