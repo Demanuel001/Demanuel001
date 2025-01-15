@@ -2,14 +2,18 @@
 
 ### 👋 Olá, eu sou o Danilo!
 #### 🎓 Bacharel em Sistemas de Informação.
-##### 🚀 Explorando e aprimorando minhas habilidades em JavaScript, TypeScript, e NodeJS.
-##### 🌱 Sempre em busca de novos desafios e aprendizados. Acompanhe minha jornada e evolução por aqui!
+#### 🚀 Explorando e aprimorando minhas habilidades em TypeScript e NodeJS.
+#### 🌱 Sempre em busca de novos desafios e aprendizados. Acompanhe minha jornada e evolução por aqui!
+
 
 ##
-
 <a href="">
-  <img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=Demanuel001&count_private=true&show_icons=true&theme=transparent&hide=contribs" />
-  <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demanuel001&layout=compact&theme=transparent" />
+  <!--<img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=Demanuel001&count_private=true&show_icons=true&theme=transparent&hide=contribs" />-->
+ <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demanuel001&layout=compact&theme=transparent"
+  style="display: block; width: 100vw; height: 200px; object-fit: cover;"
+/>
+
 </a>
 
 ##
