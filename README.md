@@ -1,7 +1,7 @@
 <br/>
 
 ### 👋 Olá, eu sou o Danilo!
-#### 🎓 Bacharel em Sistemas de Informação.
+#### 🎓 Bacharel em Sistemas de Informação e Pós-graduado em Engenharia de Software.
 #### 🚀 Explorando e aprimorando minhas habilidades em TypeScript e NodeJS.
 #### 🌱 Sempre em busca de novos desafios e aprendizados. Acompanhe minha jornada e evolução por aqui!
 
